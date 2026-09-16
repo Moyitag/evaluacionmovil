@@ -1,8 +1,8 @@
 # AuthApp - Evaluación Móviles
 
 ## Estudiante(s)
-- [Nombre completo del estudiante 1]
-- [Nombre completo del estudiante 2 — si aplica]
+- Joshua Gilberto Marinero Hernández
+- Génesis Gómez Moya
 
 ## Descripción del proyecto
 Aplicación móvil desarrollada con **React Native + Expo** que implementa autenticación de usuarios mediante **Firebase Auth** y almacenamiento de datos en **Cloud Firestore**. Cuenta con tres pantallas principales: Login, Registro y Dashboard (perfil), navegación condicional según el estado de sesión, componentes reutilizables (input, botón, tarjeta) y manejo seguro de credenciales mediante variables de entorno.
